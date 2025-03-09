@@ -24,7 +24,7 @@
   <li style="color: #444;">HTML5</li>
   <li style="color: #444;">CSS3</li>
   <li style="color: #444;">JavaScript</li>
-  <li style="color: #444;">Python</li>
+  <li style="color: #444;">react</li>
 </ul>
 
 <h2 style="color: #333;">📂 Folder Structure</h2>
